@@ -9,6 +9,8 @@ EN:
 
  This project as of now it remained on a simulation phase due to lack of pieces and of time, this can be set back to running in a few years.
 
+ The arduino files will be posted later as it's under a recoding process, both callibration and data collecting files will be uploaded
+
 ES:
  
  Proyecto realizado durante el bienio 2020/2022 para el Stembach (candidato a ser retomado para el TFG)
@@ -18,3 +20,5 @@ ES:
  La idea del algortimo está basada en el funcionamiento de un sistema que lleva en funcionamineto desde hace muchos años que es el sistema nightscout, hecho por diabéticos para diabéticos. El sistema permite el control continuo de la glucosa de los diabéticos que poseen bombas de insulinas que no son capaces de emplear este sistema.
 
  El proyecto está en una fase de simulación, que es en lo que quedó al terminar el stembach debido a falta de tiempo y de piezas, este proyecto puede volver a ponerse en funcionamiento si se emplea para el TFG.
+
+ Los archivos relacionados con el arduino serán subidos posteriormente debido a que están en un proceso de reprogramación, se subirán tanto el programa de calibración y el programa de recogida de datos.
